@@ -24,7 +24,7 @@
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 - 🔧 &nbsp;
 - ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio&logoColor=007ACC)
   ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=php-storm&logoColor=007ACC)
 
 <!--
