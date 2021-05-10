@@ -1,7 +1,6 @@
 ### Hi there 👋
 **I'm .Net Developer**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov)](https://github.com/KhanbalaRashidov/github-readme-stats)
 
 ![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true)
 
