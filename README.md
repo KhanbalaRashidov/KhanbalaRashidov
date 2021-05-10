@@ -17,7 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![SqlServer]("https://img.shields.io/badge/SQL%20Server-333333?style=flat&logo=microsoft-sql-server")
+  ![Sql-Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![ElasticSearch](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elasticsearch)
 - ⚙️ &nbsp;
