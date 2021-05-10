@@ -4,7 +4,7 @@
 
 
 ![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov)](https://github.com/KhanbalaRashidov/github-readme-stats)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
