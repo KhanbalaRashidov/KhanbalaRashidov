@@ -2,7 +2,7 @@
 **I'm .Net Developer**
 
 
-![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true)
+![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true )
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
