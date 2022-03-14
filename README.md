@@ -7,16 +7,11 @@
 
 ![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true ) 
 
-<table>
-  <tr>
-    <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=KhanbalaRashidov&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
-    <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/KhanbalaRashidov/KhanbalaRashidov?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</td>
-  </tr>
-</table>
-
  <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/m0rp43us">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -42,6 +37,14 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=php-storm&logoColor=007ACC)
   
+  <table>
+  <tr>
+    <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=KhanbalaRashidov&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
+    <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/KhanbalaRashidov/KhanbalaRashidov?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</td>
+  </tr>
+</table>
+
   <b>🔥 Github Streaks</b>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhanbalaRashidov" /></p>
  
