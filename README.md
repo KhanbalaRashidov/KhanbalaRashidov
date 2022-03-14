@@ -5,9 +5,7 @@
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
-![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true ) <a href="https://github.com/KhanbalaRashidov">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
+![Khanbala's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&theme=blue-green&show_icons=true ) 
 
 <table>
   <tr>
