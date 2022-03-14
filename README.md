@@ -9,15 +9,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-
 <table>
   <tr>
     <td ><img alt="Visitors" src="https://komarev.com/ghpvc/?username=KhanbalaRashidov&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/></td>
     <td  ><img alt="Last Commit" src="https://img.shields.io/github/last-commit/KhanbalaRashidov/KhanbalaRashidov?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 </td>
+      <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
   </tr>
 </table>
 
