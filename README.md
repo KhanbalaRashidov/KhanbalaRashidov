@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I`m Khanbala Rashidov 👋
 **I'm .Net Developer**
 
 <p align='center'>
