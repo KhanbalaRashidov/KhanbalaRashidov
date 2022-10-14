@@ -4,6 +4,9 @@
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
+<p align="center">
+  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
+</p>
 
  <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -13,12 +16,6 @@
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
-**<p align="center">
-  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
-</p>
-**
-
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&locoColor=00599C")
