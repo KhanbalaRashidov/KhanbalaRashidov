@@ -2,7 +2,8 @@
 **I'm .Net Developer**
 
 <p align="center">
-    <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"
+    <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
+     <img style="float:left"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400"/>
      src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" />
    // <img src="https://gidigi.com/cdn/love.gif"/>
 </p>
