@@ -1,11 +1,8 @@
 ### Hi, I`m Khanbala Rashidov 👋
 **I'm .Net Developer**
 
-<p align='center'>
+<p>
     <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" /><img src="https://gidigi.com/cdn/love.gif">
-</p>
-<p align="center">
- 
 </p>
 
  <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
