@@ -3,7 +3,7 @@
 
 <p align="center">
     <img alt="GIF" style="float:left" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
-    <img src="https://gidigi.com/cdn/love.gif">
+    <img src="https://gidigi.com/cdn/love.gif"/>
 </p>
 
  <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
