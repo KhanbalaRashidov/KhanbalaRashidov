@@ -14,6 +14,7 @@
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&locoColor=00599C")
