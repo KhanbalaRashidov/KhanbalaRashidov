@@ -19,11 +19,11 @@
   ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
   ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
   ![Go](https://img.icons8.com/color/2x/golang.png)
+  ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
+  ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
 -  ## 🌐 Web Technology &nbsp;
   ![HTML5](https://img.icons8.com/color/2x/html-5.png)
   ![CSS](https://img.icons8.com/fluency/2x/css3.png)
-  ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
-  ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
   ![Bootstrap](https://img.icons8.com/color/2x/bootstrap.png)
   ![React](https://img.icons8.com/color/2x/react-native.png)
   ![Angular](https://img.icons8.com/color/2x/angularjs.png)
