@@ -5,14 +5,12 @@
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
      <img style="float:left"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400"/>
 </p>
-<p>
- <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a>
-<a href="https://github.com/KhanbalaRashidov">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a> 
-</p></br></br>
+<p align="center">
+  <a href="https://coderstats.net/github/#Dentrax">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanbalaRashidov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhanbalaRashidov&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
+  </a>
+</p> </br></br>
 
 
 # 🛠 &nbsp; Tech Stack
