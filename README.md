@@ -35,15 +35,11 @@
   ![Redis](https://img.icons8.com/color/2x/redis.png)
   ![Mongo](https://img.icons8.com/color/2x/mongodb.png)
 - ##  Version Control &nbsp;
-  ![Git](https://img.icons8.com/color/2x/git.png)
-  ![GitHub](https://img.icons8.com/nolan/2x/github.png)
-  ![GitLab](https://img.icons8.com/color/2x/gitlab.png)
-  ![Bitbucket](https://img.icons8.com/color/2x/bitbucket.png)
   <img style="float:left"  src="https://img.icons8.com/color/2x/git.png" width="100" height="100"/>  
   <img style="float:left"  src="https://img.icons8.com/nolan/2x/github.png" width="100" height="100"/>
   <img style="float:left"  src="https://img.icons8.com/color/2x/gitlab.png" width="100" height="100"/>
   <img style="float:left"  src="https://img.icons8.com/color/2x/bitbucket.png" width="100" height="100"/>  </br></br>
-- ##  IDE 
+- ##  IDE  &nbsp;
   <img style="float:left"  src="https://img.icons8.com/fluency/2x/visual-studio.png" width="100" height="100"/>  
   <img style="float:left"  src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="100" height="100"/>
   <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png" width="100" height="100"/>
