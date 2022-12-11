@@ -7,8 +7,8 @@
 </p>
 <p align="center">
   <a href="https://coderstats.net/github/#Dentrax">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanbalaRashidov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=30"/>
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhanbalaRashidov&layout=compact&langs_count=8&theme=algolia&line_height=30"/>
+    <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanbalaRashidov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=40"/>
+    <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhanbalaRashidov&layout=compact&langs_count=8&theme=algolia&line_height=40"/>
   </a>
 </p> </br></br>
 
