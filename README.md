@@ -16,9 +16,9 @@
 # 🛠 &nbsp; Tech Stack
 
 - ##  Programming Language &nbsp;
-  ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
-  ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
   ![Go](https://img.icons8.com/color/2x/golang.png)
+  ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
+  ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
   ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
   ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
 -  ## 🌐 Web Technology &nbsp;
