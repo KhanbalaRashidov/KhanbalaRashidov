@@ -33,6 +33,7 @@
   ![MySQL](https://img.icons8.com/color/2x/mysql-logo.png)
   ![ElasticSearch](https://img.icons8.com/color/2x/elasticsearch.png)
   ![Redis](https://img.icons8.com/color/2x/redis.png)
+  ![Mongo](https://img.icons8.com/color/2x/mongodb.png)
 - ##  Version Control &nbsp;
   ![Git](https://img.icons8.com/color/2x/git.png)
   ![GitHub](https://img.icons8.com/glyph-neue/2x/github.png)
