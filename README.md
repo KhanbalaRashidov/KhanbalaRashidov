@@ -42,6 +42,7 @@
   ![Visual Studio](https://img.icons8.com/fluency/2x/visual-studio.png)
   ![Visual Studio Code](https://img.icons8.com/color/2x/visual-studio-code-2019.png)
   ![Rider](https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png)
+  <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png" width="40" height="40"/>
   ![Goland](https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png)
   
   <table>
