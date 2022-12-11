@@ -18,7 +18,7 @@
 - 💻 &nbsp;
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&locoColor=00599C)
-  ![Go]([https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-golang&locoColor=00599C](https://icons8.com/icon/44442/golang))
+  ![Go]([(https://icons8.com/icon/44442/golang)])
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
