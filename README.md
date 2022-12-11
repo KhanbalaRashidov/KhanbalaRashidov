@@ -25,7 +25,7 @@
   ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
   ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
   ![Bootstrap](https://img.icons8.com/color/2x/bootstrap.png)
-  ![React](https://img.icons8.com/plasticine/2x/react.png)
+  ![React](https://img.icons8.com/color/2x/react-native.png)
   ![Angular](https://img.icons8.com/color/2x/angularjs.png)
 - 🛢 &nbsp;
   ![Sql-Server](https://img.icons8.com/color/2x/microsoft-sql-server.png)
