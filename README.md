@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;# Tech Stack</h3>
 
 - # Programming Language &nbsp;
   ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
