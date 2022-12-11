@@ -5,13 +5,15 @@
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
      <img style="float:left"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400"/>
 </p>
-
+<p>
  <a href="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </a>
 <a href="https://github.com/KhanbalaRashidov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanbalaRashidov&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-</a> </br></br>
+</a> 
+</p></br></br>
+
 
 # 🛠 &nbsp; Tech Stack
 
