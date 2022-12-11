@@ -15,11 +15,11 @@
 
 # 🛠 &nbsp; Tech Stack
 
-- ## Programming Language &nbsp;
+- ##  Programming Language &nbsp;
   ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
   ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
   ![Go](https://img.icons8.com/color/2x/golang.png)
--  ## Web Technology's &nbsp;
+-  ## 🌐 Web Technology &nbsp;
   ![HTML5](https://img.icons8.com/color/2x/html-5.png)
   ![CSS](https://img.icons8.com/fluency/2x/css3.png)
   ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
@@ -27,18 +27,18 @@
   ![Bootstrap](https://img.icons8.com/color/2x/bootstrap.png)
   ![React](https://img.icons8.com/color/2x/react-native.png)
   ![Angular](https://img.icons8.com/color/2x/angularjs.png)
-- 🛢 &nbsp;
+- ##  Database Technology &nbsp;
   ![Sql-Server](https://img.icons8.com/color/2x/microsoft-sql-server.png)
   ![Postgres](https://img.icons8.com/color/2x/postgreesql.png)
   ![MySQL](https://img.icons8.com/color/2x/mysql-logo.png)
   ![ElasticSearch](https://img.icons8.com/color/2x/elasticsearch.png)
   ![Redis](https://img.icons8.com/color/2x/redis.png)
-- ⚙️ &nbsp;
+- ##  Version Control &nbsp;
   ![Git](https://img.icons8.com/color/2x/git.png)
   ![GitHub](https://img.icons8.com/glyph-neue/2x/github.png)
   ![GitLab](https://img.icons8.com/color/2x/gitlab.png)
   ![Bitbucket](https://img.icons8.com/color/2x/bitbucket.png)
-- 🔧 
+- ##  IDE 
   ![Visual Studio](https://img.icons8.com/fluency/2x/visual-studio.png)
   ![Visual Studio Code](https://img.icons8.com/color/2x/visual-studio-code-2019.png)
   ![Rider](https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png)
