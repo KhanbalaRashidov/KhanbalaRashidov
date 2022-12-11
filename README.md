@@ -36,7 +36,7 @@
   ![Mongo](https://img.icons8.com/color/2x/mongodb.png)
 - ##  Version Control &nbsp;
   ![Git](https://img.icons8.com/color/2x/git.png)
-  ![GitHub](https://img.icons8.com/glyph-neue/2x/github.png)
+  ![GitHub](https://img.icons8.com/nolan/2x/github.png)
   ![GitLab](https://img.icons8.com/color/2x/gitlab.png)
   ![Bitbucket](https://img.icons8.com/color/2x/bitbucket.png)
 - ##  IDE 
