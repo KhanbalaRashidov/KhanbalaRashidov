@@ -1,5 +1,5 @@
-### Hi, I`m Khanbala Rashidov 👋
-**I'm Software Developer**
+# Hi, I`m Khanbala Rashidov 👋
+## I'm Software Developer
 
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
