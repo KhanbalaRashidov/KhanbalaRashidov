@@ -39,10 +39,10 @@
   ![GitLab](https://img.icons8.com/color/2x/gitlab.png)
   ![Bitbucket](https://img.icons8.com/color/2x/bitbucket.png)
 - ##  IDE 
-  <img style="float:left"  src="https://img.icons8.com/fluency/2x/visual-studio.png" width="100" height="100"/>
+  <img style="float:left"  src="https://img.icons8.com/fluency/2x/visual-studio.png" width="100" height="100"/>  
   <img style="float:left"  src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="100" height="100"/>
   <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png" width="100" height="100"/>
-  <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png" width="100" height="100"/>
+  <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png" width="100" height="100"/>  &nbsp;
   
   <table>
   <tr>
