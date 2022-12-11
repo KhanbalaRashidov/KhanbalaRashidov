@@ -42,7 +42,7 @@
   <img style="float:left"  src="https://img.icons8.com/fluency/2x/visual-studio.png" width="100" height="100"/>  
   <img style="float:left"  src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" width="100" height="100"/>
   <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png" width="100" height="100"/>
-  <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png" width="100" height="100"/>  </br></br>;
+  <img style="float:left"  src="https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png" width="100" height="100"/>  </br></br>
 - ## Info &nbsp;
   <table>
   <tr>
@@ -51,8 +51,7 @@
 </td>
   </tr>
 </table>
-
-  <b>🔥 Github Streaks</b>
+- ## 🔥 Github Streaks &nbsp;
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhanbalaRashidov" /></p>
 
 ![](./profile-green-animate.svg)
