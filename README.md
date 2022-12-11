@@ -16,26 +16,33 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=flat&logo=c-sharp&locoColor=00599C)
+  ![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
+  ![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
   ![Go](https://img.icons8.com/color/2x/golang.png)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![HTML5](https://img.icons8.com/color/2x/html-5.png)
+  ![CSS](https://img.icons8.com/fluency/2x/css3.png)
+  ![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
+  ![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
+  ![Bootstrap](https://img.icons8.com/color/2x/bootstrap.png)
+  ![React](https://img.icons8.com/plasticine/2x/react.png)
+  ![Angular](https://img.icons8.com/color/2x/angularjs.png)
 - 🛢 &nbsp;
-  ![Sql-Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![ElasticSearch](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elasticsearch)
+  ![Sql-Server](https://img.icons8.com/color/2x/microsoft-sql-server.png)
+  ![Postgres](https://img.icons8.com/color/2x/postgreesql.png)
+  ![MySQL](https://img.icons8.com/color/2x/mysql-logo.png)
+  ![ElasticSearch](https://img.icons8.com/color/2x/elasticsearch.png)
+  ![Redis](https://img.icons8.com/color/2x/redis.png)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-- 🔧 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=3D155F)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Rider](https://img.shields.io/badge/-Rider-333333?style=flat&logo=php-storm&logoColor=007ACC)
+  ![Git](https://img.icons8.com/color/2x/git.png)
+  ![GitHub](https://img.icons8.com/glyph-neue/2x/github.png)
+  ![GitLab](https://img.icons8.com/color/2x/gitlab.png)
+  ![Bitbucket](https://img.icons8.com/color/2x/bitbucket.png)
+- 🔧 
+  ![Visual Studio](https://img.icons8.com/fluency/2x/visual-studio.png)
+  ![Visual Studio Code](https://img.icons8.com/color/2x/visual-studio-code-2019.png)
+  ![Rider](https://www.alternatifle.com/wp-content/uploads/2020/01/5e27cfead28a0.png)
+  ![Goland](https://www.alternatifle.com/wp-content/uploads/2020/11/5fab82a49fa1b.png)
   
   <table>
   <tr>
