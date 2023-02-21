@@ -3,7 +3,7 @@
 
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="640" height="400"/>
-     <img style="float:left" src="[https://gidigi.com/cdn/love.gif](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)" width="640" height="400"/>
+     <img style="float:left" src="[https://gidigi.com/cdn/love.gif](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)"/>
 </p>
 
 <p align="center">
