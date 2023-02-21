@@ -1,5 +1,5 @@
 # Hi, I`m Khanbala Rashidov 👋
-## I'm Software Developer
+## I'm Software Engineer
 
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/>
