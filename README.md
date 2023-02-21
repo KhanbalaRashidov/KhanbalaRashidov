@@ -6,6 +6,8 @@
      <img style="float:left" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="800" height="600"/>
 </p>
 
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
 <p align="center">
   <a href="https://coderstats.net/github/#Dentrax">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhanbalaRashidov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
