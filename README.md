@@ -4,9 +4,13 @@
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/>
      <img style="float:left" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="800" height="600"/>
-      <img style="float:left" src="https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg" width="800" height="500"/>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
+</picture>
 
 
 <p align="center">
