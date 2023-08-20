@@ -1,5 +1,6 @@
-# Hi, I`m Khanbala Rashidov 👋
-## I'm Software Engineer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+!+👋;+I'm+Khanbala+Rashidov;+I'm +Software + Engineer" />
+</h1>
 
 <p align="center">
     <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/>
@@ -9,7 +10,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg" >
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg" width="800" height="600">
+  <img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
 </picture>
 
 
