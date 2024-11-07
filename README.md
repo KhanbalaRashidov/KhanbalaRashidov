@@ -68,7 +68,7 @@
        </tr></table>  
   
 - ## Github Streaks &nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=KhanbalaRashidov&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KhanbalaRashidov&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="KhanbalaRashidov" /></p>
 
 ![](./profile-green-animate.svg)
 
